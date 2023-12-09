@@ -22,5 +22,6 @@ class Home : ComponentActivity() {
     fun text(name:String = "Hello"){
         Text(text = "$name Suresh Kumar Feature1")
         Text(text = "$name Asha Kumari Feature1")
+
     }
 }
